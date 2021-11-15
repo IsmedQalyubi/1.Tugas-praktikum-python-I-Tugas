@@ -15,4 +15,4 @@
 6.
 ![image](https://github.com/IsmedQalyubi/1.Tugas-praktikum-python-I-Tugas/blob/main/7.PNG) 
 7.
-![image](
+![image](https://github.com/IsmedQalyubi/1.Tugas-praktikum-python-I-Tugas/blob/main/8.PNG) 
