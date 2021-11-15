@@ -11,4 +11,8 @@
 4.
 ![Image](https://github.com/IsmedQalyubi/1.Tugas-praktikum-python-I-Tugas/blob/main/5.PNG) 
 5.
-![Image](https://github.com/IsmedQalyubi/1.Tugas-praktikum-python-I-Tugas/blob/main/6.PNG) 
+![Image](https://github.com/IsmedQalyubi/1.Tugas-praktikum-python-I-Tugas/blob/main/6.PNG)
+6.
+![image](https://github.com/IsmedQalyubi/1.Tugas-praktikum-python-I-Tugas/blob/main/7.PNG) 
+7.
+![image](
