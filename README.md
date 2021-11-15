@@ -9,6 +9,6 @@
 3.
 ![Image](https://github.com/IsmedQalyubi/1.Tugas-praktikum-python-I-Tugas/blob/main/4.PNG) 
 4.
-![Image](
+![Image](https://github.com/IsmedQalyubi/1.Tugas-praktikum-python-I-Tugas/blob/main/5.PNG) 
 5.
 ![Image](
