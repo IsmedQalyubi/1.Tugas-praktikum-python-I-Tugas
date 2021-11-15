@@ -1,1 +1,2 @@
-# 1.Tugas-praktikum-python-I-Tugas
+4.9 Praktikum
+1. ![Image](
